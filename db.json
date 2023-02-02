@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "pratik",
+      "age": "24",
+      "gender": "male",
+      "country": "india",
+      "profession": "Student",
+      "id": 3
+    },
+    {
+      "name": "manish",
+      "age": "23",
+      "gender": "male",
+      "country": "india",
+      "profession": "Student",
+      "id": 4
+    },
+    {
+      "name": "sakshi",
+      "age": "23",
+      "gender": "female",
+      "country": "usa",
+      "profession": "professional",
+      "id": 5
+    },
+    {
+      "name": "pratik",
+      "age": "24",
+      "gender": "male",
+      "country": "india",
+      "profession": "Student",
+      "id": 6
+    }
+  ]
+}
